@@ -40,5 +40,10 @@
 > 
 > 19 Создайте класс Game с виртуальной функцией play(). Реализуйте производные классы BoardGame и VideoGame.
 
+## Задания с 1 по 12
+![image](https://github.com/user-attachments/assets/4bf1c86a-6a35-4c5d-8302-2d7bb37bf89f)
 
-![image](https://github.com/user-attachments/assets/f019edd0-2027-4601-ba35-2cb333dbddcb)
+
+## Задания с 13 по 19
+![image](https://github.com/user-attachments/assets/328095ed-9377-48ec-8118-36acf3ac0d9b)
+
